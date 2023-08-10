@@ -1,4 +1,4 @@
-# Tone
+# Tono
 Code used to analyze and simulate Tono distribution in *Drosophila melanogaster*.
 
 ## What is this about?
